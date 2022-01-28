@@ -1,4 +1,4 @@
-curl -X POST --data "@migrations/flights.json" localhost:8080/flights
+curl -X POST --data "@migrations/flights.json" localhost:8080/flights \
 curl "localhost:8080/flights?order_by=number&order=dec&destination=Austin" | jq
 
 
