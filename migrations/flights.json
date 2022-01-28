@@ -1,0 +1,30 @@
+[
+  {
+    "Number": "AFL-2346",
+    "Origin": "Ivanovo",
+    "Destination": "Rome",
+    "Departure": "2022-01-27T03:19:41.148+03:00",
+    "Arrival": "2022-01-28T03:19:46.419+03:00"
+  },
+  {
+    "Number": "AFL-2345",
+    "Origin": "Moscow",
+    "Destination": "Austin",
+    "Departure": "2022-01-27T04:19:41.148+03:00",
+    "Arrival": "2022-01-28T03:19:46.419+03:00"
+  },
+  {
+    "Number": "AFL-2246",
+    "Origin": "Moscow",
+    "Destination": "Ivanovo",
+    "Departure": "2022-01-27T05:19:41.148+03:00",
+    "Arrival": "2022-01-28T03:19:46.419+03:00"
+  },
+  {
+    "Number": "AFL-2250",
+    "Origin": "Ivanovo",
+    "Destination": "Austin",
+    "Departure": "2022-01-27T10:19:41.148+03:00",
+    "Arrival": "2022-01-28T03:19:46.419+03:00"
+  }
+]
